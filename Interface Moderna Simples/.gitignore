@@ -1,0 +1,16 @@
+__history
+Build
+/*__history
+*.dcu
+*.identcache
+*.res
+*.local
+*.db
+*.dsk
+*.~dsk
+/*Build
+*.mdf
+*.ldf
+*.bak
+.Build/*
+.exe
